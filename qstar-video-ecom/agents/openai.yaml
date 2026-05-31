@@ -1,0 +1,6 @@
+interface:
+  default_prompt: >-
+    Use $qstar-video-ecom to turn a Chinese e-commerce product brief into a reviewable
+    short-form product-video package. Follow the skill workflow, keep legacy video API
+    endpoints explicit, and fall back to structured regeneration when direct image upload
+    is unavailable.
